@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ducksplash
+- 👋 Hi, I’m @ducksplash; a mature student & developer from Northern Ireland.
 - 👀 I’m interested in ... Game Development
 - 🌱 I’m currently learning ... Unity; C#, 3D modelling, Animation, ETC, ETC!
 - 💞️ I’m looking to collaborate on ... Games, specifically of the genres: Survival Horror, Narrative, Platformer.
