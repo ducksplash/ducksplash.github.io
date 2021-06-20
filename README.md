@@ -5,7 +5,6 @@
 - 📫 How to reach me ... abstractclassmethod [@] protonmail.com
 
 
-<img src="https://github.com/ducksplash/moonshot/blob/master/screenshots/1.jpg" width="500" height="326">
 
 
 <!---
