@@ -1,14 +1,13 @@
-<p align="center">
- 
 ![](https://github.com/ducksplash/ducksplash/blob/main/images/ducksplashsmallheader.png)
 
- </p>
 
-- 👋 Hi, I’m @ducksplash; a mature student & developer from Northern Ireland.
-- 👀 I’m interested in ... Game Development.. amongst other things ;P
-- 🌱 I’m currently learning ... Unity; C#, 3D modelling, Animation, ETC, ETC!
-- 💞️ I’m looking to collaborate on ... Games, specifically of the genres: Survival Horror, Narrative, Platformer.
-- 📫 How to reach me ... abstractclassmethod [@] protonmail.com
+
+👋 Hi, I’m @ducksplash; a mature student & developer from Northern Ireland.
+👀 I’m interested in ... Game Development.. amongst other things ;P
+🌱 I’m currently learning ... Unity; C#, 3D modelling, Animation, ETC, ETC!
+📫 How to reach me ... abstractclassmethod [@] protonmail.com
+
+
 
 
 
