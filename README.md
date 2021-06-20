@@ -2,13 +2,13 @@
 
 
 
-👋 Hi, I’m @ducksplash; a mature student & developer from Northern Ireland.
+👋 Hi, I’m @ducksplash; a 2nd year mature student & developer from Northern Ireland.
 
-👀 I’m interested in ... Game Development.. amongst other things ;P
+👉 I’m interested in ... Game Development.. amongst other things ;P
 
 🌱 I’m currently learning ... Unity; C#, 3D modelling, Animation, ETC, ETC!
 
-📫 How to reach me ... abstractclassmethod [@] protonmail.com
+📫 How to reach me ... abstractclassmethod [@] protonmail.com or on here!
 
 Here are some screens from some stuff I done.
 
