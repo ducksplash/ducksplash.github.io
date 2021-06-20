@@ -1,4 +1,4 @@
-![](https://github.com/ducksplash/ducksplash/blob/main/images/ducksplashsmallheader.png?raw=true)
+<center>![](https://github.com/ducksplash/ducksplash/blob/main/images/ducksplashsmallheader.png?raw=true)</center>
 
 
 - 👋 Hi, I’m @ducksplash; a mature student & developer from Northern Ireland.
