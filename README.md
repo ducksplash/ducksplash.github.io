@@ -1,4 +1,4 @@
-<center>![](https://github.com/ducksplash/ducksplash/blob/main/images/ducksplashsmallheader.png?raw=true)</center>
+<div style="text-align:center">![](https://github.com/ducksplash/ducksplash/blob/main/images/ducksplashsmallheader.png?raw=true)</center>
 
 
 - 👋 Hi, I’m @ducksplash; a mature student & developer from Northern Ireland.
@@ -14,3 +14,4 @@
 ducksplash/ducksplash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
