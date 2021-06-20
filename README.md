@@ -1,3 +1,6 @@
+![](https://github.com/ducksplash/ducksplash/blob/main/images/ducksplashsmallheader.png?raw=true)
+
+
 - 👋 Hi, I’m @ducksplash; a mature student & developer from Northern Ireland.
 - 👀 I’m interested in ... Game Development.. amongst other things ;P
 - 🌱 I’m currently learning ... Unity; C#, 3D modelling, Animation, ETC, ETC!
