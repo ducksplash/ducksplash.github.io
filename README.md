@@ -2,11 +2,13 @@
 <img src="https://github.com/ducksplash/ducksplash/blob/main/images/ducksplashsmallheader.png" alt="duckSPLASH NI"/>
 </p>
 <hr/>
-👋 Hi, I’m @ducksplash; a 2nd year mature student & Independent Game Developer from Northern Ireland.
+👋 I’m Thomas; a 2nd year mature student & Independent Game Developer from Northern Ireland.
 
 👉 I’m interested in ... Game Development.
 
+
 🌱 I’m currently learning ... Unity; C#, 3D modelling, Animation, etc.
+
 
 📧 mailto:abstractclassmethod@protonmail.com
 
