@@ -11,6 +11,7 @@
 
 📫 How to reach me ... abstractclassmethod [@] protonmail.com or on here!
 
+<hr/>
 Some stuff I did or am doing.
 
 <h3><a href="https://github.com/ducksplash/AwkwardRobot">Awkward Robot</a></h3>
@@ -23,6 +24,7 @@ Help Robert the robot get to the exit by first building his path with the adjust
 
 [release imminent]
 
+<hr/>
 <h3><a href="https://github.com/ducksplash/WHIT">What Happened In Tawley</a></h3>
 <i>A long-form first person sinister-survival-narrative game for Desktop PC.</i>
 
@@ -36,6 +38,7 @@ Using your torch, your phone and your wits, you'll uncover a strange conspiracy.
 <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/master/screenshots/3.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/master/screenshots/1.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/master/screenshots/2.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/master/screenshots/4.jpg" width="128" height="80">
 
 
+<hr/>
 <h3><a href="https://github.com/ducksplash/moonshot">Winston is Stuck on the Moon</a></h3>
 <i>A Game Jam entry for the 2020 GitHub Game Off Jam.</i>
 
