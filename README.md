@@ -31,7 +31,7 @@ Help Robert the robot get to the exit by first building his path with the adjust
 
 You play as Nora Kennedy, an ambitious reporter working for the local paper in the semi-fictional town of Tawley, Co. Sligo, Ireland.
 
-Using your torch, your phone and your wits, you'll uncover a strange conspiracy.
+Using your torch, your phone and your wits, you'll uncover a conspiracy that challenges reality itself.
 
 [not yet anywhere near release]
 
