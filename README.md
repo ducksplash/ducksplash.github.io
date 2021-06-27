@@ -10,7 +10,9 @@
 
 📫 How to reach me:
 abstractclassmethod [@] protonmail.com
+
 <a href="https://itch.io/profile/ducksplash">Itch.io</a>
+
 <a href="https://twitter.com/DuckSplashNI">Twitter</a>
 
 
