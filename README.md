@@ -4,11 +4,11 @@
 <hr/>
 👋 I’m Thomas; a 2nd year mature student & Independent Game Developer from Northern Ireland.
 
-👉 I’m interested in ... Game Development.
-
+👉 I’m interested in ... Game Development; programming.
 
 🌱 I’m currently learning ... Unity; C#, 3D modelling, Animation, etc.
 
+🏭 I'm working on ... a number of games
 
 📧 abstractclassmethod@protonmail.com
 
