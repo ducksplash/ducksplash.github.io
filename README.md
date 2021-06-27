@@ -12,7 +12,7 @@
 <br/><br/><br/>
 ☎ How to reach me
 <br/><br/>
-📧 a href=mailto:abstractclassmethod@protonmail.com">abstractclassmethod@protonmail.com</a>
+📧 <a href=mailto:abstractclassmethod@protonmail.com">abstractclassmethod@protonmail.com</a>
 <br/><br/>
 🕹 <a href="https://itch.io/profile/ducksplash">Itch.io</a>
 <br/><br/>
