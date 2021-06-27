@@ -41,7 +41,7 @@ Using your torch, your phone and your wits, you'll uncover a conspiracy that cha
 
 <hr/>
 <h3><a href="https://github.com/ducksplash/moonshot">Winston is Stuck on the Moon</a></h3>
-<i>A Game Jam entry for the 2020 GitHub Game Off Jam.</i>
+<i>An entry for the 2020 GitHub Game Off Jam.</i>
 
 
 You play as Winston the cat. You have found yourself inexplicably stranded on the moon.
