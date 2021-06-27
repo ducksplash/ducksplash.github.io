@@ -17,6 +17,7 @@ Help Robert the robot get to the exit by first building his path with the adjust
 
 <img src="https://user-images.githubusercontent.com/11778864/123560392-ba453d00-d799-11eb-81c3-0c5563e28ddd.png" width="128" height="80"><img src="https://user-images.githubusercontent.com/11778864/123560394-bca79700-d799-11eb-8215-3e5465b889e0.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/123560395-c03b1e00-d799-11eb-89e2-8d90730abdcf.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/123560398-c3cea500-d799-11eb-9493-bc1b6a394aa8.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/123560399-c7622c00-d799-11eb-8110-db1c4ab47367.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/123560403-c9c48600-d799-11eb-84a2-11b6d8fd1c5f.png" width="128" height="80">
 
+[release imminent]
 
 <h3><a href="https://github.com/ducksplash/WHIT">What Happened In Tawley</a></h3>
 
