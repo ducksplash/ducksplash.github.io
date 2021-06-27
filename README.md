@@ -9,9 +9,10 @@
 
 📫 How to reach me ... abstractclassmethod [@] protonmail.com or on here!
 
-Some stuff I done.
+Some stuff I did or am doing.
 
 <h3><a href="https://github.com/ducksplash/AwkwardRobot">Awkward Robot</a></h3>
+<i>A puzzle-platformer for Android.</i>
 
 Help Robert the robot get to the exit by first building his path with the adjustable tiles provided.
 
@@ -20,6 +21,7 @@ Help Robert the robot get to the exit by first building his path with the adjust
 [release imminent]
 
 <h3><a href="https://github.com/ducksplash/WHIT">What Happened In Tawley</a></h3>
+<i>A long-form first person sinister-survival-narrative game for Desktop PC.</i>
 
 You play as Nora Kennedy, an ambitious reporter working for the local paper in the semi-fictional town of Tawley, Co. Sligo, Ireland.
 Using your torch, your phone and your wits, you'll uncover a strange conspiracy.
@@ -31,10 +33,7 @@ Using your torch, your phone and your wits, you'll uncover a strange conspiracy.
 
 
 <h3><a href="https://github.com/ducksplash/moonshot">Winston is Stuck on the Moon</a></h3>
-
-
-Entry for the 2020 GitHub Game Off Jam.
-The theme was "Moon Shot".
+<i>A Game Jam entry for the 2020 GitHub Game Off Jam.</i>
 
 You play as Winston the cat. You have found yourself inexplicably stranded on the moon.
 You need to get home.
