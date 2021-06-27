@@ -11,9 +11,9 @@
 🏭 I'm working on ... a number of games
 <br/><br/>
 📧 abstractclassmethod@protonmail.com
-
+<br/><br/>
 🕹 <a href="https://itch.io/profile/ducksplash">Itch.io</a>
-
+<br/><br/>
 🐦 <a href="https://twitter.com/DuckSplashNI">Twitter</a>
 
 
