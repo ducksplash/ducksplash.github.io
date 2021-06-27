@@ -9,11 +9,11 @@
 
 📫 How to reach me ... abstractclassmethod [@] protonmail.com or on here!
 
-Here are some screens from some stuff I done.
+Some stuff I done.
 
 
-<img src="https://user-images.githubusercontent.com/11778864/123560173-ac42ec80-d798-11eb-9e2a-6ec37a917439.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/123560177-af3ddd00-d798-11eb-8fc1-0904cb2a0a7a.png" width="128" height="80"><img src="https://user-images.githubusercontent.com/11778864/123560179-b1a03700-d798-11eb-80be-d9737952d11e.png" width="128" height="80"><img src="https://user-images.githubusercontent.com/11778864/123560182-b49b2780-d798-11eb-91cf-132d74b6c22a.png" width="128" height="80"><img src="https://user-images.githubusercontent.com/11778864/123560186-b6fd8180-d798-11eb-9cdf-c99f9eb75651.png" width="128" height="80"><img src="https://user-images.githubusercontent.com/11778864/123560193-ba910880-d798-11eb-9f9f-f5eaeb2455bd.png" width="128" height="80"><img src="https://user-images.githubusercontent.com/11778864/123560196-bd8bf900-d798-11eb-82ac-1159076d7cf0.png" width="128" height="80">
 
+<img src="https://user-images.githubusercontent.com/11778864/123560392-ba453d00-d799-11eb-81c3-0c5563e28ddd.png" width="128" height="80"><img src="https://user-images.githubusercontent.com/11778864/123560394-bca79700-d799-11eb-8215-3e5465b889e0.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/123560395-c03b1e00-d799-11eb-89e2-8d90730abdcf.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/123560398-c3cea500-d799-11eb-9493-bc1b6a394aa8.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/123560399-c7622c00-d799-11eb-8110-db1c4ab47367.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/123560403-c9c48600-d799-11eb-84a2-11b6d8fd1c5f.png" width="128" height="80">
 
 <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/master/screenshots/3.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/master/screenshots/1.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/master/screenshots/2.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/master/screenshots/4.jpg" width="128" height="80">
 
