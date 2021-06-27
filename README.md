@@ -1,6 +1,6 @@
 
 ![](https://github.com/ducksplash/ducksplash/blob/main/images/ducksplashsmallheader.png)
-
+<hr/>
 👋 Hi, I’m @ducksplash; a 2nd year mature student & developer from Northern Ireland.
 
 👉 I’m interested in ... Game Development.. amongst other things.
