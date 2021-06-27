@@ -8,7 +8,7 @@
 <br/><br/>
 🌱 I’m currently learning ... <br/>Unity; C#, 3D modelling, Animation, etc.
 <br/><br/>
-🏭 I'm working on ... <br/>a number of games, building a portfolio.
+🏭 I'm working on ... <br/>a number of games; building a portfolio.
 <br/><br/><br/>
 ☎ How to reach me
 <br/><br/>
