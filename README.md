@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/11778864/123562873-4874ef80-d7a9-11eb-82c7-969e1fa78e3e.png" alt="duckSPLASH NI" width="1000" height="120"/>
+<img src="https://user-images.githubusercontent.com/11778864/123562873-4874ef80-d7a9-11eb-82c7-969e1fa78e3e.png" alt="duckSPLASH NI" width="2014" height="120"/>
 </p>
 <hr/>
 👋 I’m Thomas; a 2nd year mature student & Independent Game Developer from Northern Ireland.
