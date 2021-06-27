@@ -41,11 +41,10 @@ You play as Nora Kennedy, an ambitious reporter working for the local paper in t
 
 Using your torch, your phone and your wits, you'll uncover a conspiracy that challenges reality itself.
 
-[not yet anywhere near release]
-
 
 <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/master/screenshots/3.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/master/screenshots/1.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/master/screenshots/2.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/master/screenshots/4.jpg" width="128" height="80">
 
+[not yet anywhere near release]
 
 <hr/>
 <h3><a href="https://github.com/ducksplash/moonshot">Winston is Stuck on the Moon</a></h3>
@@ -55,11 +54,10 @@ Using your torch, your phone and your wits, you'll uncover a conspiracy that cha
 You play as Winston the cat. You have found yourself inexplicably stranded on the moon.
 You need to get home.
 
-[<a href="https://ducksplash.itch.io/winston-is-stuck-on-the-moon">released on itch.io</a>]
-
 
 <img src="https://github.com/ducksplash/moonshot/blob/master/screenshots/1.jpg" width="128" height="80"><img src="https://github.com/ducksplash/moonshot/blob/master/screenshots/2.jpg" width="128" height="80"><img src="https://github.com/ducksplash/moonshot/blob/master/screenshots/3.jpg" width="128" height="80"><img src="https://github.com/ducksplash/moonshot/blob/master/screenshots/4.jpg" width="128" height="80"><img src="https://github.com/ducksplash/moonshot/blob/master/screenshots/5.jpg" width="128" height="80">
 
+[<a href="https://ducksplash.itch.io/winston-is-stuck-on-the-moon">released on itch.io</a>]
 
 
 
