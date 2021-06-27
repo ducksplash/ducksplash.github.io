@@ -8,7 +8,9 @@
 <br/><br/>
 🌱 I’m currently learning ... Unity; C#, 3D modelling, Animation, etc.
 <br/><br/>
-🏭 I'm working on ... a number of games
+🏭 I'm working on ... a number of games, building a portfolio.
+<br/><br/><br/><br/>
+☎ How to reach me
 <br/><br/>
 📧 abstractclassmethod@protonmail.com
 <br/><br/>
