@@ -4,7 +4,7 @@
 
 👋 Hi, I’m @ducksplash; a 2nd year mature student & developer from Northern Ireland.
 
-👉 I’m interested in ... Game Development.. amongst other things ;P
+👉 I’m interested in ... Game Development.. amongst other things.
 
 🌱 I’m currently learning ... Unity; C#, 3D modelling, Animation, ETC, ETC!
 
