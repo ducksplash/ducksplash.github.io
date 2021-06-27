@@ -1,6 +1,6 @@
 
 <p align="center">
-![](https://github.com/ducksplash/ducksplash/blob/main/images/ducksplashsmallheader.png)
+<img src="https://github.com/ducksplash/ducksplash/blob/main/images/ducksplashsmallheader.png" alt="duckSPLASH NI"/>)
 </p>
 <hr/>
 👋 Hi, I’m @ducksplash; a 2nd year mature student & developer from Northern Ireland.
