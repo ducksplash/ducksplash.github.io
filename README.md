@@ -10,7 +10,7 @@
 🌱 I’m currently learning ... Unity; C#, 3D modelling, Animation, etc.
 
 
-📧 mailto:abstractclassmethod@protonmail.com
+📧 abstractclassmethod@protonmail.com
 
 🕹 <a href="https://itch.io/profile/ducksplash">Itch.io</a>
 
