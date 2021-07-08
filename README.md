@@ -30,7 +30,7 @@ Help Robert the robot get to the exit by first building his path with the adjust
 
 <img src="https://user-images.githubusercontent.com/11778864/124947215-8d99ec80-e007-11eb-902f-89415b944bcc.png" width="128" height="80"><img src="https://user-images.githubusercontent.com/11778864/124947226-8ffc4680-e007-11eb-80cd-24f93a46834d.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/124947236-91c60a00-e007-11eb-89bf-4686d18a351f.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/124947245-94286400-e007-11eb-8536-1182a23120af.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/124947267-97235480-e007-11eb-9e62-6dac3928b37c.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/124947283-9a1e4500-e007-11eb-9096-a6d0db8d0d4b.png" width="128" height="80">
 
-[<a href="https://ducksplash.itch.io/awkwardrobot">Released!</a>]
+[<a href="https://ducksplash.itch.io/awkwardrobot">Released on Android & Windows PC!</a>]
 
 <hr/>
 <h3><a href="https://github.com/ducksplash/WHIT">What Happened In Tawley</a></h3>
