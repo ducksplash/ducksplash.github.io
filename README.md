@@ -1,20 +1,6 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/11778864/123562873-4874ef80-d7a9-11eb-82c7-969e1fa78e3e.png" alt="duckSPLASH NI" width="2014" height="120"/>
+<img src="https://user-images.githubusercontent.com/11778864/123562873-4874ef80-d7a9-11eb-82c7-969e1fa78e3e.png" alt="duckSPLASH" width="2014" height="120"/>
 </p>
-<hr/>
-👋 I’m Thomas; a 2nd year mature student & Thing Developer from Northern Ireland.
-<br/><br/>
-👉 I’m interested in ... <br/>Game Development; programming.
-<br/><br/>
-🌱 I’m currently learning ... <br/>Unity; C#, 3D modelling, Animation, etc.
-<br/><br/>
-🏭 I'm working on ... <br/>a number of games; building a portfolio.
-<br/><br/><br/>
-☎ How to reach me
-<br/><br/>
-📧 <a href=mailto:abstractclassmethod@protonmail.com">abstractclassmethod@protonmail.com</a>
-<br/><br/>
-🕹 <a href="https://itch.io/profile/ducksplash">Itch.io</a>
 <hr/>
 Some stuff I did or am doing.
 
