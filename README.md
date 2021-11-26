@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/11778864/123562873-4874ef80-d7a9-11eb-82c7-969e1fa78e3e.png" alt="duckSPLASH NI" width="2014" height="120"/>
 </p>
 <hr/>
-👋 I’m Thomas; a 2nd year mature student & Independent Game Developer from Northern Ireland.
+👋 I’m Thomas; a 2nd year mature student & Thing Developer from Northern Ireland.
 <br/><br/>
 👉 I’m interested in ... <br/>Game Development; programming.
 <br/><br/>
@@ -15,13 +15,22 @@
 📧 <a href=mailto:abstractclassmethod@protonmail.com">abstractclassmethod@protonmail.com</a>
 <br/><br/>
 🕹 <a href="https://itch.io/profile/ducksplash">Itch.io</a>
-<br/><br/>
-🐦 <a href="https://twitter.com/DuckSplashNI">Twitter</a>
-
-
 <hr/>
 Some stuff I did or am doing.
 
+  
+<h3><a href="https://github.com/ducksplash/WalletSentinel">Wallet Sentinel</a></h3>
+<i>A small Web3.js programme to monitor wallets on various ethereum-based blockchains and forward all incoming funds to another address.  This is a proof of concept programme borne out of pure curiosity</i>
+
+![Screenshot 2021-11-26 02 23 14](https://user-images.githubusercontent.com/11778864/143518798-64f019e4-0b4d-4389-a018-edb4105ff292.png)
+
+Wallet Sentinel will soon be hosted live on the Polygon network!
+  
+  <a href="">WalletSentinel.dao</a> *
+  
+  * The address may not yet be live; as a brand new technology, Blockchain Domains are still being ironed out and it is hoped that this one will be useable early December 2020.
+  
+<hr/>
 <h3><a href="https://github.com/ducksplash/AwkwardRobot">Awkward Robot</a></h3>
 <i>A puzzle-platformer for Android & Windows PC.</i>
 
