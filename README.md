@@ -26,7 +26,7 @@ Hardware.
 <br/><br/>
 <b>Some stuff I did or am doing, vaguely in order of doing.</b>
 
-<i>Please be aware that while some of my work may look gnarley, please try to understand that everything I do, I do on my own; with no team, no budget, and computer equipment so old that God's dad doesn't want it back & I have to believe that if I had the same kinda resources as the blue haired teenagers in NIGDN, I'd have bare sales by now :P</i>
+<i>N.B. while some of my work may look gnarley, please try to understand that everything I do, I do on my own; with no team, no budget, and computer equipment so old that God's dad doesn't want it back & I have to believe that if I had the same kinda resources as the blue haired teenagers in NIGDN, I'd have bare sales by now :P</i>
 
 <h2>🎮 <a href="https://github.com/ducksplash/MarbleMania">Marble Mania</a></h2>
 <i>A third person homage to the 1984 classic, Marble Madness, for Windows & Linux</i><br/>
