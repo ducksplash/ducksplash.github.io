@@ -10,6 +10,7 @@
 <br/>A game devloper.
 <br/>A web developer.
 <br/>A blockchain developer.
+<br/>A father.
 <br/>
 and
 <br/>A crypto millionaire <a href="#lol">]![</a>.
