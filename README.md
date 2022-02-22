@@ -12,7 +12,7 @@ A Programmer.
 <br/>A Father.
 <br/>
 and
-<br/>A Crypto Millionaire 😎 <a id="top" href="#lol">!!!</a>.<br/><br/>
+<br/>A Crypto Millionaire 😎 <a id="top" href="#lol">!!!</a><br/><br/>
 <h4>My specific areas of interest, in no particular order, are:</h4>
 Hardware.
 <br/>Networking.
