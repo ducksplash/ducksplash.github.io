@@ -72,7 +72,7 @@ Generic Drops will be a turnkey solution that can be deployed by anyone with a w
   
   <a href="https://gorilladrops.org/index-08.php">Live Example</a> <b>(!)</b>
   
-  <b>(!)</b> This is the in-dev version for the client; eventually these will diverge as the contracted work has ended and the fun begins.
+  <b>(!)</b> This is the in-dev version for the client; eventually these will diverge as the contracted work ends and the fun begins.
 
 You are free to download this in it's current, grizzly form and have a mess about with it if that's what you like. Everything's provided except the server.
   
