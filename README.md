@@ -10,7 +10,7 @@ Some stuff I did or am doing, vaguely in order of doing.
 
 ![Screenshot 2021-11-26 02 23 14](https://user-images.githubusercontent.com/11778864/143518798-64f019e4-0b4d-4389-a018-edb4105ff292.png)
 
-Wallet Sentinel will soon be hosted live on the Polygon network!
+Wallet Sentinel is now hosted live on the Polygon-Matic network!
   
   <a href="http://walletsentinel.dao">WalletSentinel.dao</a> <b>(!)</b>
   
