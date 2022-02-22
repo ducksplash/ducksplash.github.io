@@ -4,6 +4,17 @@
 <hr/>
 Some stuff I did or am doing, vaguely in order of doing.
 
+<h3><a href="https://github.com/ducksplash/AwkwardRobot">Marble Mania</a></h3>
+<i>A third person homage to the 1984 classic, Marble Madness, for Windows & Linux</i><br/>
+<img src="https://user-images.githubusercontent.com/11778864/155048470-cfe21e08-6165-4d19-a2d3-fd3b3d17c738.png">
+Get the marble past the various obstacles and enemies any way you can.
+There is only one rule: do not run out of time.
+
+<img src="https://user-images.githubusercontent.com/11778864/155048472-3447fc73-da5d-48c0-86c8-de1ce1deff7a.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/155048480-652a12b8-5e98-422c-b5ed-0949f3cc5915.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/155048481-8f4c4b6c-3a5a-467a-bf04-e4a27b5df3ae.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/155048485-ee071884-b133-4ac3-852b-9aa44d9339de.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/155048488-088b48be-d876-44c2-8284-88c28c1807b1.png" width="128" height="80">  
+  
+A three level demo of this is almost ready to go up, just need to finish the end of Level 3 then some tweaks and polish.
+
+<hr/>
   
 <h3><a href="https://github.com/ducksplash/WalletSentinel">Wallet Sentinel</a></h3>
 <i>A small Web3.js programme to monitor wallets on various ethereum-based blockchains and forward all incoming funds to another address.  This is a proof of concept programme borne out of pure curiosity</i>
@@ -30,11 +41,11 @@ Generic Drops will be a turnkey solution that can be deployed by anyone with a w
   
   <b>(!)</b> This is the in-dev version for the client; eventually these will diverge as the contracted work has ended and the fun begins.
 
-You are free to download this in it's current, grizzly form and have a mess about with it if that's what you like. Everything's provided except the hosting.
+You are free to download this in it's current, grizzly form and have a mess about with it if that's what you like. Everything's provided except the server.
   
 <hr/>
 <h3><a href="https://github.com/ducksplash/AwkwardRobot">Awkward Robot</a></h3>
-<i>A puzzle-platformer for Android & Windows PC.</i><br/>
+<i>A puzzle-platformer for Android & Windows.</i><br/>
 <img src="https://user-images.githubusercontent.com/11778864/124947226-8ffc4680-e007-11eb-80cd-24f93a46834d.png">
 
 Help Robert the robot get to the exit by first building his path with the adjustable tiles provided.
@@ -43,9 +54,12 @@ Help Robert the robot get to the exit by first building his path with the adjust
   
 [<a href="https://ducksplash.itch.io/awkwardrobot">Released on itch.io!</a>]
 
+This is also on <a href="https://play.google.com/store/apps/details?id=com.duckSPLASH.AwkwardRobot">Google Play</a>!
+Of course it's free, it was just a wee weekend project.
+
 <hr/>
 <h3><a href="https://github.com/ducksplash/WHIT">What Happened In Tawley</a></h3>
-<i>A long-form first person sinister-survival-narrative game for Desktop PC.</i><br/>
+<i>A long-form first person sinister-survival-narrative game for Windows & Linux.</i><br/>
 <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/master/screenshots/3.jpg">
 
 You play as Nora Kennedy, an ambitious reporter working for the local paper in the semi-fictional town of Tawley, Co. Sligo, Ireland.
@@ -59,7 +73,7 @@ Using your torch, your phone and your wits, you'll uncover a conspiracy that cha
 
 <hr/>
 <h3><a href="https://github.com/ducksplash/moonshot">Winston is Stuck on the Moon</a></h3>
-<i>The first thing I ever made in Unity - An entry for the 2020 GitHub Game-Off Game Jam.</i><br/>
+<i>The first thing I ever made in Unity - An entry for the 2020 GitHub Game-Off Game Jam. For Windows & Linux</i><br/>
 <img src="https://github.com/ducksplash/moonshot/blob/master/screenshots/1.jpg">
 
 You play as Winston the cat. You have found yourself inexplicably stranded on the moon.
