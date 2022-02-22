@@ -2,7 +2,31 @@
 <img src="https://user-images.githubusercontent.com/11778864/123562873-4874ef80-d7a9-11eb-82c7-969e1fa78e3e.png" alt="duckSPLASH" width="2014" height="120"/>
 </p>
 <hr/>
-Some stuff I did or am doing, vaguely in order of doing.
+<b>I am not really a duck, sorry.</b><br/>
+<br/>
+<b>I am, in order:</b><br/>
+<br/>A programmer.
+<br/>A technician.
+<br/>A game devloper.
+<br/>A web developer.
+<br/>A blockchain developer.
+<br/>
+and
+<br/>A crypto millionaire*.
+<br/>
+<br/>
+<b>My specific areas of interest (in no particular order as it doesn't need to be) are:</b><br/>
+<br/>Hardware.
+<br/>Networking.
+<br/>Programming.
+<br/>3D Modelling (Blender mostly).
+<br/>Texturing (Substance Painter and friends).
+<br/>Making things out of nothing.
+<br/>Fixing Things (Borked codebases, computers, phones, tumble dryers, brick walls - anything. Except cars. I haven't owned one long enough.
+
+
+<br/><br/>
+<b>Some stuff I did or am doing, vaguely in order of doing.</b>
 
 <h3><a href="https://github.com/ducksplash/MarbleMania">Marble Mania</a></h3>
 <i>A third person homage to the 1984 classic, Marble Madness, for Windows & Linux</i><br/>
@@ -101,3 +125,6 @@ You can click the Preview link to take a look at your changes.
   
   
 Thanks for stopping by 👋
+
+
+* All of the tokens I'm a millionaire in have rugged. I am dirt poor. 
