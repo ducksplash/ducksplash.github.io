@@ -12,9 +12,24 @@ Some stuff I did or am doing.
 
 Wallet Sentinel will soon be hosted live on the Polygon network!
   
-  <a href="http://walletsentinel.dao">WalletSentinel.dao</a> *
+  <a href="http://walletsentinel.dao">WalletSentinel.dao</a> <b>(!)</b>
   
-  * The address may not yet be live; as a brand new technology, Blockchain Domains are still being ironed out and it is hoped that this one will be useable early December 2020.
+  <b>(!)</b> The address may not yet be live; as a brand new technology, Blockchain Domains are still being ironed out and it is hoped that this one will be useable early December 2020.
+  
+<hr/>
+  
+<h3><a href="https://github.com/ducksplash/GenericDrops">Generic Drops</a></h3>
+<i>An aidrop management & participation website written in PHP that started as freelance work and turned into more</i> :)
+
+![gdr1](https://user-images.githubusercontent.com/11778864/155040560-fd7e24d6-1cb0-496c-bb8b-72a0b67b964b.png)
+
+Generic Drops will be a turnkey solution that can be deployed by anyone with a web hosting plan, or LAMP at home.
+  
+  <a href="https://gorilladrops.org/index-08.php">Live Example</a> <b>(!)</b>
+  
+  <b>(!)</b> This is the in-dev version for the client; eventually these will diverge as the contracted work has ended and the fun begins.
+
+You are free to download this in it's current, grizzly form and have a mess about with it if that's what you like. Everything's provided except the hosting.
   
 <hr/>
 <h3><a href="https://github.com/ducksplash/AwkwardRobot">Awkward Robot</a></h3>
