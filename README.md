@@ -12,7 +12,7 @@
 <br/>A blockchain developer.
 <br/>
 and
-<br/>A crypto millionaire ]![.
+<br/>A crypto millionaire <a href="#lol">]![</a>.
 <br/>
 <br/>
 <b>My specific areas of interest (in no particular order as it doesn't need to be) are:</b><br/>
@@ -127,4 +127,4 @@ You can click the Preview link to take a look at your changes.
 Thanks for stopping by 👋
 
 
- ]![ All of the tokens I'm a millionaire in have rugged. I am dirt poor.  there is precisely zero to gain in robbing me
+ <span id="lol">]![ All of the tokens I'm a millionaire in have rugged. I am dirt poor.  there is precisely zero to gain in robbing me.</span>
