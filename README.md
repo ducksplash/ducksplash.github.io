@@ -90,14 +90,14 @@ Of course it's free, it was just a wee weekend project.
 <hr/>
 <h2><a href="https://github.com/ducksplash/WHIT">What Happened In Tawley</a></h2>
 <i>A long-form first person sinister-survival-narrative game for Windows & Linux.</i><br/>
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/screenshots/3.jpg">
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/3.jpg">
 
 You play as Nora Kennedy, an ambitious reporter working for the local paper in the semi-fictional town of Tawley, Co. Sligo, Ireland.
 
 Using your torch, your phone and your wits, you'll uncover a conspiracy that challenges reality itself.
 
 
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/screenshots/1.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/screenshots/2.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/screenshots/4.jpg" width="128" height="80">
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/1.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/2.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/4.jpg" width="128" height="80">
 
 [not yet anywhere near release]
 
