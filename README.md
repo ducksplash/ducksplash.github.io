@@ -28,7 +28,7 @@ Wallet Sentinel is now hosted live on the Polygon-Matic network!
   
   <a href="http://walletsentinel.dao">WalletSentinel.dao</a> <b>(!)</b>
   
-  <b>(!)</b> The address above is a new type of domain known as an <b>"Unstoppable Domain"</b> which can ironically be stopped without the <a href="https://unstoppabledomains.com/extension">necessary browser extension</b>.
+  <b>(!)</b> The address above is a new type of domain known as an <b>"Unstoppable Domain"</b> which can ironically be stopped without the <a href="https://unstoppabledomains.com/extension">necessary browser extension</a>.
   Decidedly sub-tremendous; I'll hold off on abandoning traditional HTTP for the mean time ;P 
   
 <hr/>
