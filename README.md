@@ -71,7 +71,7 @@ Generic Drops will be a turnkey solution that can be deployed by anyone with a w
   
   <a href="https://gorilladrops.org/index-08.php">Live Example</a> <b>(!)</b>
   
-  <b>(!)</b> This is the in-dev version for the client; eventually these will diverge as the contracted work ends and the fun begins.
+  <b>(!)</b> This is the in-dev version for the client; eventually these will diverge as the contracted work ends and the fun begins. Updated screens will follow.
 
 You are free to download this in it's current, grizzly form and have a mess about with it if that's what you like. Everything's provided except the server.
   
@@ -96,7 +96,7 @@ Of course it's free, it was just a wee weekend project.
 
 You play as Nora Kennedy, an ambitious reporter working for the local paper in the semi-fictional town of Tawley, Co. Sligo, Ireland.
 
-Using your torch, your phone and your wits, you'll uncover a conspiracy that challenges reality itself.
+Using your torch, your phone and your wits, you'll unravel a conspiracy that challenges reality itself.
 
 
 <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/1.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/2.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/4.jpg" width="128" height="80">
