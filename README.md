@@ -4,7 +4,7 @@
 <hr/>
 Some stuff I did or am doing, vaguely in order of doing.
 
-<h3><a href="https://github.com/ducksplash/AwkwardRobot">Marble Mania</a></h3>
+<h3><a href="https://github.com/ducksplash/Marble-Mania">Marble Mania</a></h3>
 <i>A third person homage to the 1984 classic, Marble Madness, for Windows & Linux</i><br/>
 <img src="https://user-images.githubusercontent.com/11778864/155048470-cfe21e08-6165-4d19-a2d3-fd3b3d17c738.png">
 Get the marble past the various obstacles and enemies any way you can.
