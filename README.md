@@ -20,7 +20,7 @@ Hardware.
 <br/>3D Modelling (Blender mostly).
 <br/>Texturing (Substance Painter and friends).
 <br/>Making things out of nothing.
-<br/>Fixing Things (Borked codebases, computers, phones, tumble dryers, brick walls - anything. Except cars. I haven't owned one long enough.
+<br/>Fixing Things (Borked codebases, computers, phones, tumble dryers, brick walls - anything. Except cars. I haven't owned one long enough).
 
 
 <br/><br/>
