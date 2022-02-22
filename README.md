@@ -2,10 +2,9 @@
 <img src="https://user-images.githubusercontent.com/11778864/123562873-4874ef80-d7a9-11eb-82c7-969e1fa78e3e.png" alt="duckSPLASH" width="2014" height="120"/>
 </p>
 <hr/>
-<h2>I am not really a duck, sorry.</h2><br/>
-<br/>
-<h4>I am, in no particular order:</h4><br/>
-<br/>A Programmer.
+<h2>I am not really a duck, sorry.</h2>
+<h4>I am, in no particular order:</h4>
+A Programmer.
 <br/>A Technician.
 <br/>A Game Devloper.
 <br/>A Web Developer.
@@ -13,11 +12,9 @@
 <br/>A Father.
 <br/>
 and
-<br/>A Crypto Millionaire 😎 <a id="top" href="#lol">]![</a>.
-<br/>
-<br/>
-<h4>My specific areas of interest, in no particular order, are:</h4><br/>
-<br/>Hardware.
+<br/>A Crypto Millionaire 😎 <a id="top" href="#lol">]![</a>.<br/>
+<h4>My specific areas of interest, in no particular order, are:</h4>
+Hardware.
 <br/>Networking.
 <br/>Programming.
 <br/>3D Modelling (Blender mostly).
