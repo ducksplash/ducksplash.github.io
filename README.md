@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/11778864/123562873-4874ef80-d7a9-11eb-82c7-969e1fa78e3e.png" alt="duckSPLASH" width="2014" height="120"/>
 </p>
 <hr/>
-Some stuff I did or am doing.
+Some stuff I did or am doing, vaguely in order of doing.
 
   
 <h3><a href="https://github.com/ducksplash/WalletSentinel">Wallet Sentinel</a></h3>
@@ -14,7 +14,8 @@ Wallet Sentinel will soon be hosted live on the Polygon network!
   
   <a href="http://walletsentinel.dao">WalletSentinel.dao</a> <b>(!)</b>
   
-  <b>(!)</b> The address may not yet be live; as a brand new technology, Blockchain Domains are still being ironed out and it is hoped that this one will be useable early December 2020.
+  <b>(!)</b> The address above is a new type of domain known as an <b>"Unstoppable Domain"</b> which can ironically be stopped without the <a href="https://unstoppabledomains.com/extension">necessary browser extension</b>.
+  Decidedly sub-tremendous; I'll hold off on abandoning traditional HTTP for the mean time ;P 
   
 <hr/>
   
