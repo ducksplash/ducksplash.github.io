@@ -12,7 +12,7 @@ A Programmer.
 <br/>A Father.
 <br/>
 and
-<br/>A Crypto Millionaire 😎 <a id="top" href="#lol">]![</a>.<br/><br/>
+<br/>A Crypto Millionaire 😎 <a id="top" href="#lol">!!!</a>.<br/><br/>
 <h4>My specific areas of interest, in no particular order, are:</h4>
 Hardware.
 <br/>Networking.
@@ -126,4 +126,4 @@ You can click the Preview link to take a look at your changes.
 Thanks for stopping by 👋
 
 
- <a id="lol" href="#top">]![</a><br/>All of the tokens I'm a millionaire in have rugged.<br/>I am dirt poor.<br/>There is precisely zero to gain in robbing me.<br/>You might as well shut down Kali Linux, put down the $5 wrench, and forget about that online romance scam. Soz.
+ <a id="lol" href="#top">!!!</a><br/>All of the tokens I'm a millionaire in have rugged.<br/>I am dirt poor.<br/>There is precisely zero to gain in robbing me.<br/>You might as well shut down Kali Linux, put down the $5 wrench, and forget about that online romance scam. Soz.
