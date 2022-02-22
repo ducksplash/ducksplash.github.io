@@ -36,13 +36,11 @@ There is only one rule: do not run out of time.
 
 Yes, you can be a duck, or a clover, or something else - in any colour you like.
 
-<img src="https://user-images.githubusercontent.com/11778864/155048472-3447fc73-da5d-48c0-86c8-de1ce1deff7a.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/155138845-d92d1f0e-019f-478b-a842-36184da4bec4.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/155048481-8f4c4b6c-3a5a-467a-bf04-e4a27b5df3ae.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/155139491-36ecf144-63e9-465c-a773-0db1d5fff42c.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/155048488-088b48be-d876-44c2-8284-88c28c1807b1.png" width="128" height="80">  
+<img src="https://user-images.githubusercontent.com/11778864/155048472-3447fc73-da5d-48c0-86c8-de1ce1deff7a.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/155138845-d92d1f0e-019f-478b-a842-36184da4bec4.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/155048481-8f4c4b6c-3a5a-467a-bf04-e4a27b5df3ae.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/155139491-36ecf144-63e9-465c-a773-0db1d5fff42c.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/155048488-088b48be-d876-44c2-8284-88c28c1807b1.png" width="128" height="80"> <img src="https://user-images.githubusercontent.com/11778864/155178267-557cbe3c-86a2-4d8a-86d6-7ea2210e5ce1.png" width="128" height="80">  
   
 A three level demo of this is almost ready to go up, just need to finish the end of Level 3 then some tweaks and a whole lotta polish.
 
-<hr/>
-
-  
+<hr/>  
 <h2>₿ <a href="https://github.com/ducksplash/WalletSentinel">Wallet Sentinel</a></h2>
 <i>A small Web3.js programme to monitor wallets on various ethereum-based blockchains and forward all incoming funds to another address.  This is a proof of concept programme borne out of pure curiosity</i>
 
