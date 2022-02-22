@@ -34,7 +34,7 @@ Wallet Sentinel is now hosted live on the Polygon-Matic network!
   
   If you don't fancy a whole browser extension just to view a one-pager, here's <a href="https://bafybeibcymhvludsay2fk5kj2y7z5zchiwbenamz6xfa5qrg44uv63aqv4.ipfs.infura-ipfs.io">a direct IPFS-TO-HTTP link</a>.
   
-  If you actually want to play about with this, you will need an Ethereum, Matic, Fantom or Binance Smart Chain wallet (address & private keyt) with testnet funds in it.
+  If you actually want to play about with this, you will need an Ethereum, Matic, Fantom or Binance Smart Chain wallet (address & private key) with testnet funds in it.
 <hr/>
   
 <h3><a href="https://github.com/ducksplash/GenericDrops">Generic Drops</a></h3>
