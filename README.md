@@ -4,19 +4,19 @@
 <hr/>
 <b>I am not really a duck, sorry.</b><br/>
 <br/>
-<b>I am, in order:</b><br/>
-<br/>A programmer.
-<br/>A technician.
-<br/>A game devloper.
-<br/>A web developer.
-<br/>A blockchain developer.
-<br/>A father.
+<b>I am, in no particular order:</b><br/>
+<br/>A Programmer.
+<br/>A Technician.
+<br/>A Game Devloper.
+<br/>A Web Developer.
+<br/>A Blockchain Developer.
+<br/>A Father.
 <br/>
 and
 <br/>A crypto millionaire <a href="#lol">]![</a>.
 <br/>
 <br/>
-<b>My specific areas of interest (in no particular order as it doesn't need to be) are:</b><br/>
+<b>My specific areas of interest, in no particular order, are:</b><br/>
 <br/>Hardware.
 <br/>Networking.
 <br/>Programming.
@@ -128,4 +128,4 @@ You can click the Preview link to take a look at your changes.
 Thanks for stopping by 👋
 
 
- <span id="lol">]![ All of the tokens I'm a millionaire in have rugged. I am dirt poor.  there is precisely zero to gain in robbing me.</span>
+ <span id="lol">]![<br/>All of the tokens I'm a millionaire in have rugged.<br/>I am dirt poor.<br/>There is precisely zero to gain in robbing me.<br/>You might as well shut down Kali Linux, put down the $5 wrench, and forget about the prep for that online romance scam.</span>
