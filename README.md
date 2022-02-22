@@ -13,7 +13,7 @@
 <br/>A Father.
 <br/>
 and
-<br/>A crypto millionaire <a id="top" href="#lol">]![</a>.
+<br/>A Crypto Millionaire 😎 <a id="top" href="#lol">]![</a>.
 <br/>
 <br/>
 <b>My specific areas of interest, in no particular order, are:</b><br/>
