@@ -29,8 +29,12 @@ Wallet Sentinel is now hosted live on the Polygon-Matic network!
   <a href="http://walletsentinel.dao">WalletSentinel.dao</a> <b>(!)</b>
   
   <b>(!)</b> The address above is a new type of domain known as an <b>"Unstoppable Domain"</b> which can ironically be stopped without the <a href="https://unstoppabledomains.com/extension">necessary browser extension</a>.
+  
   Decidedly sub-tremendous; I'll hold off on abandoning traditional HTTP for the mean time ;P 
   
+  If you don't fancy a whole browser extension just to view a one-pager, here's <a href="https://bafybeibcymhvludsay2fk5kj2y7z5zchiwbenamz6xfa5qrg44uv63aqv4.ipfs.infura-ipfs.io">a direct IPFS-TO-HTTP link</a>.
+  
+  If you actually want to play about with this, you will need an Ethereum, Matic, Fantom or Binance Smart Chain wallet (address & private keyt) with testnet funds in it.
 <hr/>
   
 <h3><a href="https://github.com/ducksplash/GenericDrops">Generic Drops</a></h3>
