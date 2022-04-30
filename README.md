@@ -9,10 +9,9 @@ A Programmer.
 <br/>A Game Devloper.
 <br/>A Web Developer.
 <br/>A Blockchain Developer.
-<br/>A Father.
 <br/>
 and
-<br/>A Crypto Millionaire 😎 <a id="top" href="#lol">!!!</a><br/><br/>
+<br/>A Crypto Millionaire 😎 (not)<br/><br/>
 <h4>My specific areas of interest, in no particular order, are:</h4>
 Hardware.
 <br/>Networking.
@@ -68,7 +67,7 @@ Generic Drops will be a turnkey solution that can be deployed by anyone with a w
   
   <a href="https://gorilladrops.org/index-08.php">Live Example</a> <b>(!)</b>
   
-  <b>(!)</b> This is the in-dev version for the client; eventually these will diverge as the contracted work ends and the fun begins. Updated screens will follow.
+  <b>(!)</b> UPDATE: So the guy ditched his token, deleted his telegram and ran for the hills. I suspect I'll be chalking this up as another exciting episode of "unpaid work experience" - getting to be a long season.
 
 You are free to download this in it's current, grizzly form and have a mess about with it if that's what you like. Everything's provided except the server.
   
@@ -124,5 +123,3 @@ You can click the Preview link to take a look at your changes.
   
 Thanks for stopping by 👋
 
-<hr/>
- <a id="lol" href="#top">!!!</a><br/>All of the tokens I'm a millionaire in have rugged.<br/>I am dirt poor.<br/>There is precisely zero to gain in robbing me.<br/>You might as well shut down Kali Linux, put down the $5 wrench, forget that online romance scam & dump the little bit of JavaScript you were going to sniff my clipboard with. Sorry for getting you excited.
