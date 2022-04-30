@@ -2,7 +2,6 @@
 <img src="https://user-images.githubusercontent.com/11778864/123562873-4874ef80-d7a9-11eb-82c7-969e1fa78e3e.png" alt="duckSPLASH" width="2014" height="120"/>
 </p>
 <hr/>
-<h2>I am not really a duck, sorry.</h2>
 <h4>What I am, in no particular order, is:</h4>
 A Programmer.
 <br/>A Technician.
