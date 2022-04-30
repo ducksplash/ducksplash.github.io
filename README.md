@@ -67,7 +67,7 @@ Generic Drops will be a turnkey solution that can be deployed by anyone with a w
   
   <a href="https://gorilladrops.org/index-08.php">Live Example</a> <b>(!)</b>
   
-  <b>(!)</b> UPDATE: So the guy ditched his token, deleted his telegram and ran for the hills. I suspect I'll be chalking this up as another exciting episode of "unpaid work experience" - getting to be a long season.
+  <b>(!)</b> UPDATE: So the guy contracted this out has ditched his token, deleted his telegram and ran for the hills. We in the crypto space call this a "Rug Pull"; many investors lost money which was promptly washed on tornado cash, I got rugged for time. I'll be chalking this up as another exciting episode of "unpaid work experience" - getting to be a long season.
 
 You are free to download this in it's current, grizzly form and have a mess about with it if that's what you like. Everything's provided except the server.
   
