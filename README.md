@@ -79,7 +79,6 @@ Help Robert the robot get to the exit by first building his path with the adjust
 [<a href="https://ducksplash.itch.io/awkwardrobot">Released on itch.io!</a>]
 
 This is also on <a href="https://play.google.com/store/apps/details?id=com.duckSPLASH.AwkwardRobot">Google Play</a>!
-Of course it's free, it was just a wee weekend project.
 
 <hr/>
 <h2>🎮 <a href="https://github.com/ducksplash/WHIT">What Happened In Tawley</a></h2>
