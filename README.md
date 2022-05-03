@@ -1,4 +1,4 @@
-<hr/>
+
 <h4>What I am, in no particular order, is:</h4>
 A Programmer.
 <br/>A Technician.
