@@ -52,21 +52,7 @@ Wallet Sentinel is now hosted live on the Polygon-Matic network!
   If you don't fancy a whole browser extension just to view a one-pager, here's <a href="https://bafybeibcymhvludsay2fk5kj2y7z5zchiwbenamz6xfa5qrg44uv63aqv4.ipfs.infura-ipfs.io">a direct IPFS-TO-HTTP link</a>.
   
   If you actually want to play about with this, you will need an Ethereum, Matic, Fantom or Binance Smart Chain wallet (address & private key) with testnet funds in it.
-<hr/>
-  
-<h2>🌐 <a href="https://github.com/ducksplash/GenericDrops">Generic Drops</a></h2>
-<i>An aidrop management & participation website written in PHP that started as freelance work and turned into more</i> :)
 
-![gdr1](https://user-images.githubusercontent.com/11778864/155040560-fd7e24d6-1cb0-496c-bb8b-72a0b67b964b.png)
-
-Generic Drops will be a turnkey solution that can be deployed by anyone with a web hosting plan, or LAMP at home.
-  
-  <a href="https://gorilladrops.org/index-08.php">Live Example</a> <b>(!)</b>
-  
-  <b>(!)</b> UPDATE: So the guy contracted this out has ditched his token, deleted his telegram and ran for the hills. We in the crypto space call this a "Rug Pull"; many investors lost money which was promptly washed on tornado cash, I got rugged for time. I'll be chalking this up as another exciting episode of "unpaid work experience" - getting to be a long season.
-
-You are free to download this in it's current, grizzly form and have a mess about with it if that's what you like. Everything's provided except the server.
-  
 <hr/>
 <h2>🎮 <a href="https://github.com/ducksplash/AwkwardRobot">Awkward Robot</a></h2>
 <i>A puzzle-platformer for Android & Windows.</i><br/>
