@@ -8,7 +8,7 @@ A Programmer.
 <br/>
 and
 <br/>A Crypto Millionaire 😎 (not)<br/><br/>
-<h4>My specific areas of interest, in no particular order, are:</h4>.
+<h4>My specific areas of interest, in no particular order, are:</h4>
 <br/>Programming
 <br/>Hardware.
 <br/>Networking.
