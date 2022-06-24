@@ -19,7 +19,7 @@ Programming
 
 
 <br/><br/>
-<b>Some stuff I did or am doing, vaguely in order of doing.</b>
+<b>Some stuff I did or am doing, vaguely in order of doing but not necessarily.</b>
 
 
 <h2>🎮 <a href="https://github.com/ducksplash/MarbleMania">Marble Mania</a></h2>
