@@ -9,7 +9,7 @@ A Programmer.
 and
 <br/>A Crypto Millionaire 😎 (not)<br/><br/>
 <h4>My specific areas of interest, in no particular order, are:</h4>
-<br/>Programming
+Programming
 <br/>Hardware.
 <br/>Networking.
 <br/>3D Modelling (Blender mostly).
