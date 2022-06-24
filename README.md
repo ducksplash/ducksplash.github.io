@@ -8,10 +8,10 @@ A Programmer.
 <br/>
 and
 <br/>A Crypto Millionaire 😎 (not)<br/><br/>
-<h4>My specific areas of interest, in no particular order, are:</h4>
-Hardware.
+<h4>My specific areas of interest, in no particular order, are:</h4>.
+<br/>Programming
+<br/>Hardware.
 <br/>Networking.
-<br/>Programming.
 <br/>3D Modelling (Blender mostly).
 <br/>Texturing (Substance Painter and friends).
 <br/>Making things out of nothing.
