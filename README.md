@@ -19,7 +19,8 @@ Programming
 
 
 <br/><br/>
-<b>Some stuff I did or am doing, vaguely in order of doing but not necessarily.</b>
+<b>Some stuff I did or am doing, vaguely in order of doing but not necessarily.<br/>
+If you wanna see what I'm working on right now, look at my last commit.</b>
 
 
 <h2>🎮 <a href="https://github.com/ducksplash/MarbleMania">Marble Mania</a></h2>
