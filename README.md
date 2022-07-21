@@ -25,7 +25,7 @@ If you wanna see what I'm working on right now, look at my last commit.</b>
 <hr/>
 <h2>🎮 <a href="https://github.com/ducksplash/WHIT">What Happened In Tawley</a></h2>
 <i>A long-form first person sinister-survival-narrative game for Windows & Linux.</i><br/>
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/6.jpg">
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/ScreenShots/6.jpg">
 
 You play as Nora Kennedy, an ambitious reporter working for the local paper in the semi-fictional town of Tawley, Co. Leitrim, Ireland.
 
@@ -34,20 +34,7 @@ Using your torch, your phone and your wits, you'll unravel a conspiracy that cha
 <a href="https://www.youtube.com/watch?v=TsR3HLeFK40">Very Early Video</a><br/><br/>
 
 
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/1.jpg" width="128"> 
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/2.jpg" width="128"> 
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/3.jpg" width="128"> 
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/4.jpg" width="128"> 
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/5.jpg" width="128">
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/7.jpg" width="128"> 
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/8.jpg" width="128"> 
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/9.jpg" width="128"> 
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/10.jpg" width="128"> 
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/11.jpg" width="128"> 
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/12.jpg" width="128"> 
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/13.jpg" width="128"> 
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/14.jpg" width="128">  
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/15.jpg" width="128"> 
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/ScreenShots/1.jpg" width="128"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/ScreenShots/2.jpg" width="128"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/ScreenShots/3.jpg" width="128"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/ScreenShots/4.jpg" width="128"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/ScreenShots/5.jpg" width="128"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/ScreenShots/7.jpg" width="128"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/ScreenShots/8.jpg" width="128"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/ScreenShots/9.jpg" width="128"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/ScreenShots/10.jpg" width="128"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/ScreenShots/11.jpg" width="128"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/ScreenShots/12.jpg" width="128"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/ScreenShots/13.jpg" width="128"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/ScreenShots/14.jpg" width="128"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/ScreenShots/15.jpg" width="128"> 
 [not yet anywhere near release]
 
 <h2>🎮 <a href="https://github.com/ducksplash/MarbleMania">Marble Mania</a></h2>
