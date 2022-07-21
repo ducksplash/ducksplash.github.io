@@ -22,6 +22,33 @@ Programming
 <b>Some stuff I did or am doing, vaguely in order of doing but not necessarily.<br/>
 If you wanna see what I'm working on right now, look at my last commit.</b>
 
+<hr/>
+<h2>🎮 <a href="https://github.com/ducksplash/WHIT">What Happened In Tawley</a></h2>
+<i>A long-form first person sinister-survival-narrative game for Windows & Linux.</i><br/>
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/6.jpg">
+
+You play as Nora Kennedy, an ambitious reporter working for the local paper in the semi-fictional town of Tawley, Co. Leitrim, Ireland.
+
+Using your torch, your phone and your wits, you'll unravel a conspiracy that challenges reality itself.
+
+<a href="https://www.youtube.com/watch?v=TsR3HLeFK40">Very Early Video</a><br/><br/>
+
+
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/1.jpg" width="128"> 
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/2.jpg" width="128"> 
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/3.jpg" width="128"> 
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/4.jpg" width="128"> 
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/5.jpg" width="128">
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/7.jpg" width="128"> 
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/8.jpg" width="128"> 
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/9.jpg" width="128"> 
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/10.jpg" width="128"> 
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/11.jpg" width="128"> 
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/12.jpg" width="128"> 
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/13.jpg" width="128"> 
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/14.jpg" width="128">  
+<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/15.jpg" width="128"> 
+[not yet anywhere near release]
 
 <h2>🎮 <a href="https://github.com/ducksplash/MarbleMania">Marble Mania</a></h2>
 <i>A third person homage to the 1984 classic, Marble Madness, for Windows.</i><br/>
@@ -70,20 +97,6 @@ Help Robert the robot get to the exit by first building his path with the adjust
 [<a href="https://ducksplash.itch.io/awkwardrobot">Released on itch.io!</a>]
 
 This is also on <a href="https://play.google.com/store/apps/details?id=com.duckSPLASH.AwkwardRobot">Google Play</a>!
-
-<hr/>
-<h2>🎮 <a href="https://github.com/ducksplash/WHIT">What Happened In Tawley</a></h2>
-<i>A long-form first person sinister-survival-narrative game for Windows & Linux.</i><br/>
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/3.jpg">
-
-You play as Nora Kennedy, an ambitious reporter working for the local paper in the semi-fictional town of Tawley, Co. Sligo, Ireland.
-
-Using your torch, your phone and your wits, you'll unravel a conspiracy that challenges reality itself.
-
-
-<img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/1.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/2.jpg" width="128" height="80"> <img src="https://media.githubusercontent.com/media/ducksplash/WHIT/main/screenshots/4.jpg" width="128" height="80">
-
-[not yet anywhere near release]
 
 <hr/>
 <h2>🎮 <a href="https://github.com/ducksplash/moonshot">Winston is Stuck on the Moon</a></h2>
