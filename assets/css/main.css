@@ -1912,7 +1912,7 @@ ul.menu li:first-child {
 }
 
 .box.feature .inner {
-	padding: 2em 2em 3em 2em;
+	padding: 1em 1em 1em 1em;
 }
 
 .box.feature h2 {
@@ -2048,7 +2048,7 @@ ul.menu li:first-child {
 }
 
 #features-wrapper {
-	padding: 3em 0 3em 0;
+	padding: 1em 0 1em 0;
 }
 
 #main-wrapper {
@@ -2745,7 +2745,7 @@ ul.menu li:first-child {
 	/* Box */
 
 	.box {
-		padding: 15px 15px 15px 15px;
+		padding: 5px 5px 5px 5px;
 		margin: 0;
 	}
 
@@ -2755,7 +2755,7 @@ ul.menu li:first-child {
 	}
 
 	.box.feature .inner {
-		padding: 10px 15px 10px 15px;
+		padding: 5px 5px 5px 5px;
 	}
 
 	.box.feature p {
