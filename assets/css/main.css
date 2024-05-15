@@ -2049,7 +2049,7 @@ ul.menu li:first-child {
 
 .imglogo{
     width: auto;
-    height: 36vh;
+    width: 18vw;
 }
 
 #features-wrapper {
@@ -2100,61 +2100,6 @@ ul.menu li:first-child {
 	color: red;
 }
 
-/* Nav */
-
-#nav {
-	position: absolute;
-	right: 0;
-	top: 0;
-	font-size: 1.4em;
-}
-
-#nav ul {
-	list-style: none;
-	padding-left: 0;
-}
-
-#nav ul li {
-	float: left;
-	line-height: 4.5em;
-	padding-left: 1.5em;
-}
-
-#nav ul li a,
-#nav ul li span {
-	-moz-transition: background-color .25s ease-in-out;
-	-webkit-transition: background-color .25s ease-in-out;
-	-ms-transition: background-color .25s ease-in-out;
-	transition: background-color .25s ease-in-out;
-	font-weight: 800;
-	letter-spacing: 0.025em;
-	color: #ffffff;
-	text-decoration: none;
-	border-radius: 6px;
-	padding: 0.5em 1em 0.5em 1em;
-}
-
-#nav ul li>ul {
-	display: none;
-	border: 0.1px solid black;
-}
-
-#nav ul li:hover a,
-#nav ul li:hover span {
-	color: red;
-	border: 0.1px solid red;
-}
-
-#nav ul li.active a,
-#nav ul li.active span {
-	color: red;
-	border: 0.1px solid red;
-}
-
-#nav ul li.current a {
-	background: #444;
-	color: #fff;
-}
 
 .dropotron {
 	background: #000000;
