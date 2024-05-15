@@ -2047,6 +2047,11 @@ ul.menu li:first-child {
 	padding: 4.5em 0 3em 0;
 }
 
+.imglogo{
+    width: auto;
+    height: 36vh;
+}
+
 #features-wrapper {
 	padding: 1em 0 1em 0;
 }
